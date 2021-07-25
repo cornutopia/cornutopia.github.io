@@ -1,2 +1,2 @@
 # cornutopia.github.io
-The website for your joy?
+The website for, well, stuff.
